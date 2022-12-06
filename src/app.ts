@@ -1,4 +1,4 @@
-import { solution11, solution12 } from "./day5";
+import { solution11, solution12 } from "./day6";
 
 // Day 1 Puzzle 1
 //console.log(solution11());
@@ -18,4 +18,8 @@ import { solution11, solution12 } from "./day5";
 
 // Day 5 Puzzle 1
 // console.log(solution11());
+// console.log(solution12());
+
+// Day 6 Puzzle 1
+console.log(solution11());
 console.log(solution12());
